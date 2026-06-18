@@ -1,0 +1,4 @@
+cd C:\contracts\my-token
+git init
+git add .
+git commit -m "Initial commit"
